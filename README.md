@@ -12,7 +12,7 @@ Casos de hibridación: *Videojuego Los Sims* y *GeoGebra*
 
 ## Introducción
   
-En **El software toma el mando**, Lev Manovich analiza cómo el software se convierte en el motor principal de la cultura contemporánea, generando procesos de **hibridación** entre medios, prácticas culturales, disciplinas y lenguajes. En esta PEC se exploran dos casos de hibridación contemporánea no tratados explícitamente por Manovich, pero que podrían formar parte de una hipotética actualización de su obra: el videojuego *Los Sims y la plataforma educativa GeoGebra.
+En **El software toma el mando**, Lev Manovich analiza cómo el software se convierte en el motor principal de la cultura contemporánea, generando procesos de **hibridación** entre medios, prácticas culturales, disciplinas y lenguajes. En esta PEC se exploran dos casos de hibridación contemporánea no tratados explícitamente por Manovich, pero que podrían formar parte de una hipotética actualización de su obra: el videojuego *Los Sims* y la plataforma educativa *GeoGebra*.
 
 Ambos ejemplos muestran cómo el software no solo simula o representa la realidad, sino que la **reconfigura**, creando nuevos espacios culturales, sociales y cognitivos donde convergen disciplinas tradicionalmente separadas.
 
@@ -31,13 +31,15 @@ Además, la comunidad de usuarios amplía el proceso de hibridación mediante mo
 
 En este sentido, *Los Sims* no es solo un videojuego, sino un laboratorio cultural digital, donde se simulan y cuestionan normas sociales, modelos familiares y dinámicas de consumo, todo ello mediado por el software como lenguaje cultural dominante.
 
-**Recursos:**
+**Enlace:**
 - https://www.ea.com/es-es/games/the-sims
 
 #### Experiencia personal
 
 sdfasdfa
 
+![TS4_Adventure-Awaits_Sale-Hero_16x9-ES](https://github.com/user-attachments/assets/5872a0c2-c9b1-4439-9797-5332d48e2b86)
+*Figura 1. Imagen del paquete de expansión Los Sims ¡A la aventura!. Fuente: Electronic Arts.*
 
 
 ## Caso 2: GeoGebra
@@ -54,12 +56,26 @@ Además, GeoGebra incorpora una fuerte dimensión colaborativa y abierta. Los ma
 
 Desde la óptica de Manovich, GeoGebra no es solo una herramienta educativa, sino un ejemplo de cómo el software redefine disciplinas tradicionales. Las matemáticas dejan de ser únicamente un sistema abstracto para convertirse en una experiencia interactiva, donde aprender implica explorar, visualizar y modificar.
 
-**Recursos:**
+**Enlace:**
 - https://www.geogebra.org
 
 #### Experiencia personal
 
 sdfasdfa
+
+![GeoGebra](https://github.com/user-attachments/assets/545e5637-de25-41b0-b9ec-03b40f1d629e)
+*Figura 2. Captura de pantalla de la interfaz de GeoGebra. Fuente: imagen propia.*
+
+
+## Conclusiones
+
+Tanto *Los Sims* como *GeoGebra* demuestran que la hibridación cultural actual no consiste simplemente en la suma de medios tradicionales, sino en su reprogramación a través de operaciones de software. Por ejemplo en *Los Sims*, la vida cotidiana, la arquitectura y la narrativa se transcodifican en una simulación interactiva donde el usuario actúa simultáneamente como jugador, diseñador y narrador. En *GeoGebra*, el conocimiento matemático se transforma en una experiencia visual, manipulable y dinámica, donde los conceptos abstractos se convierten en objetos interactivos.
+
+Ambos casos confirman la vigencia del enfoque de Lev Manovich para comprender cómo el software continúa tomando el mando de la cultura. La hibridación que presentan no se limita a combinar disciplinas preexistentes, sino que genera nuevas prácticas culturales y cognitivas que solo pueden existir dentro del metamedio ordenador. El videojuego *Los Sims* crea una nueva forma de representación social basada en sistemas y simulaciones, mientras que *GeoGebra* redefine la enseñanza y comprensión de las matemáticas mediante la visualización computacional y la interacción directa.
+
+En los dos ejemplos, el software introduce principios fundamentales como la variabilidad, la modularidad y la participación del usuario, permitiendo que cada experiencia sea distinta y abierta a la intervención.
+
+En definitiva, ambos pueden entenderse como “nuevas especies de medios” surgidas de la **hibridación profunda entre técnicas culturales previas y operaciones de software**. Ambos muestran cómo el ordenador no solo alberga medios, sino que los transforma, confirmando que la cultura actual se define cada vez más por su carácter programable, interactivo y remezclable.
 
 
 ### Referencias y Bibliografía
