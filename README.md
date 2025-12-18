@@ -6,7 +6,7 @@
 
 **Asignatura:** Cultura Digital (Grado Multimedia)
 
-**Fecha:** 19 de diciembre de 2025
+**Curso:** 2025/26
 
 **Casos de hibridación:** Videojuego *Los Sims* y *GeoGebra*
 
@@ -26,9 +26,9 @@ Ambos ejemplos muestran cómo el software no solo simula o representa la realida
 
 *Los Sims* (Maxis / Electronic Arts) es un videojuego que trasciende las convenciones clásicas del videojuego tradicional. Más que un juego con objetivos cerrados, funciona como una plataforma de simulación social, donde se hibridan elementos de arquitectura, gestión económica u observación sociológica.
 
-Desde la perspectiva de Manovich, *Los Sims* ejemplifica cómo el software actúa como un metamedio. «Un ordenador es un medio que puede simular de forma dinámica los particulares de cualquier otro medio, incluidos los medios que no pueden existir físicamente. No es una herramienta, aunque pueda actuar como muchas» [^2], lo que permite que el jugador no solo juegue, sino que diseñe sistemas complejos como hogares, rutinas, relaciones y estilos de vida. El juego integra herramientas propias del software de diseño asistido por ordenador (CAD) convirtiendo al usuario en un híbrido entre jugador, diseñador y narrador.
+Desde la perspectiva de Manovich, *Los Sims* ejemplifica cómo el software actúa como un metamedio. "Un ordenador es un medio que puede simular de forma dinámica los particulares de cualquier otro medio, incluidos los medios que no pueden existir físicamente. No es una herramienta, aunque pueda actuar como muchas" [^2], lo que permite que el jugador no solo juegue, sino que diseñe sistemas complejos como hogares, rutinas, relaciones y estilos de vida. El juego integra herramientas propias del software de diseño asistido por ordenador (CAD) convirtiendo al usuario en un híbrido entre jugador, diseñador y narrador.
 
-La narrativa en *Los Sims* no está preescrita, sino que emerge de la interacción entre algoritmos y decisiones del usuario. Este procedimiento refleja uno de los principios fundamentales del software cultural: la **variabilidad**. Como afirma Manovich, «al reemplazar todas las constantes por variables, el software de medios institucionaliza este deseo. Ahora todo puede cambiarse y presentarse como una novedad»  [^3], de modo que cada partida es distinta, generando microhistorias únicas que nunca se repiten exactamente igual. 
+La narrativa en *Los Sims* no está preescrita, sino que emerge de la interacción entre algoritmos y decisiones del usuario. Este procedimiento refleja uno de los principios fundamentales del software cultural: la **variabilidad**. Como afirma Manovich, "al reemplazar todas las constantes por variables, el software de medios institucionaliza este deseo. Ahora todo puede cambiarse y presentarse como una novedad" [^3], de modo que cada partida es distinta, generando microhistorias únicas que nunca se repiten exactamente igual. 
 
 En este sentido, *Los Sims* no es solo un videojuego, sino un laboratorio cultural digital, donde se simulan y cuestionan normas sociales, modelos familiares y dinámicas de consumo, todo ello mediado por el software como lenguaje cultural dominante.
 
@@ -58,9 +58,8 @@ GeoGebra es una plataforma digital que combina matemáticas, geometría, álgebr
 
 Tradicionalmente, las matemáticas se han enseñado como un lenguaje abstracto y simbólico. GeoGebra rompe esta separación al convertir fórmulas y ecuaciones en objetos manipulables, visuales y dinámicos. El software actúa como mediador cognitivo, permitiendo que el usuario explore conceptos matemáticos mediante la experimentación directa.
 
-Uno de los principios del software que se manifiesta claramente es la modularidad: cada elemento (puntos, vectores, funciones) puede ser modificado independientemente, pero sigue formando parte de un sistema mayor. Esta lógica modular permite un aprendizaje no lineal, donde el usuario construye su propio recorrido de comprensión.
+Uno de los principios del software que se manifiesta claramente es la **modularidad**: cada elemento (puntos, vectores, funciones) puede ser modificado independientemente, pero sigue formando parte de un sistema mayor. Como señala Manovich, "un medio simulado en software es una combinación de una estructura de datos y una serie de algoritmos" [^4], lo que permite que estos elementos se manipulen de forma autónoma sin perder sentido dentro del conjunto. Esta lógica modular favorece el aprendizaje no lineal, donde el usuario construye su propio recorrido de comprensión.
 
-Además, GeoGebra incorpora una fuerte dimensión colaborativa y abierta. Los materiales creados por docentes y estudiantes se comparten en repositorios públicos, siguiendo una filosofía cercana al software libre y a las licencias Creative Commons. El conocimiento se convierte así en un producto reutilizable, editable y expandible.
 
 Desde la óptica de Manovich, GeoGebra no es solo una herramienta educativa, sino un ejemplo de cómo el software redefine disciplinas tradicionales. Las matemáticas dejan de ser únicamente un sistema abstracto para convertirse en una experiencia interactiva, donde aprender implica explorar, visualizar y modificar.
 
@@ -80,10 +79,6 @@ Esta experiencia confirma que la hibridación no solo afecta a los medios cultur
 - https://www.geogebra.org
 
 
-
-
-
-
 ## Conclusiones
 
 Tanto *Los Sims* como *GeoGebra* demuestran que la hibridación cultural actual no consiste simplemente en la suma de medios tradicionales, sino en su reprogramación a través de operaciones de software. Por ejemplo en *Los Sims*, la vida cotidiana, la arquitectura y la narrativa se transcodifican en una simulación interactiva donde el usuario actúa simultáneamente como jugador, diseñador y narrador. En *GeoGebra*, el conocimiento matemático se transforma en una experiencia visual, manipulable y dinámica, donde los conceptos abstractos se convierten en objetos interactivos.
@@ -94,10 +89,12 @@ En los dos ejemplos, el software introduce principios fundamentales como la vari
 
 En definitiva, ambos pueden entenderse como “nuevas especies de medios” surgidas de la **hibridación profunda entre técnicas culturales previas y operaciones de software**. Ambos muestran cómo el ordenador no solo alberga medios, sino que los transforma, confirmando que la cultura actual se define cada vez más por su carácter programable, interactivo y remezclable.
 
+> "Los resultados de este proceso de hibridez son una nueva estética y una nueva «especie de medios» que no pueden reducirse a la suma de los medios que las componen." (Manovich, 2013) [^5]
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+*  Alan Kay (1984). **Computer Software**. Scientific American.
 
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
@@ -105,3 +102,5 @@ Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
 [^1]: Manovich, Lev. (2013). El Software toma el mando. (p. 193). Barcelona: Editorial UOC.
 [^2]: Alan Kay (1984). «Computer Software», Scientific American (p. 52). Citado en Jean-Louis Gassée, «The Evolution of Thinking Tools», en The Art of Human-Computer Interface Design, (p. 225).
 [^3]: Manovich, Lev. (2013). El Software toma el mando. (p. 364). Barcelona: Editorial UOC.
+[^4]: Manovich, Lev. (2013). El Software toma el mando. (p. 230). Barcelona: Editorial UOC.
+[^5]: Manovich, Lev. (2013). El Software toma el mando. (p. 297). Barcelona: Editorial UOC.
